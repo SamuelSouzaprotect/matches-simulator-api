@@ -7,11 +7,11 @@
     "mandante": {
     "nome": "Brasil",
       "Força": 5,
-      "imagem": "TODO"},
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"},
     "visitante": {
     "nome": "Argentina",
-      "Força": 5,1111
-      "imagem": "TODO"
+      "Força": 5,
+      "imagem": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg"
     }
   }
 ]
